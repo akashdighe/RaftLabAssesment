@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RaftLabAssesment/static/css/main.3c5cd85c.css",
+    "main.js": "/RaftLabAssesment/static/js/main.f8d41327.js",
+    "static/js/787.49616aef.chunk.js": "/RaftLabAssesment/static/js/787.49616aef.chunk.js",
+    "static/media/ProfilePic1.jpg": "/RaftLabAssesment/static/media/ProfilePic1.6b73fd246a999fb8e32e.jpg",
+    "static/media/ProfilePic.jpg": "/RaftLabAssesment/static/media/ProfilePic.44ecfad2a6375fe64109.jpg",
+    "static/media/ProfilePic2.jpg": "/RaftLabAssesment/static/media/ProfilePic2.7a2f12df7485b65d348f.jpg",
+    "static/media/GoogleMeet2.jpg": "/RaftLabAssesment/static/media/GoogleMeet2.3d5c38e1325f6d36cf5e.jpg",
+    "static/media/GoogleMeet3.jpg": "/RaftLabAssesment/static/media/GoogleMeet3.0a25cbf3dcc321fe112a.jpg",
+    "static/media/GoogleMeet1.jpg": "/RaftLabAssesment/static/media/GoogleMeet1.960981d520c7006e542e.jpg",
+    "static/media/MoneyImg.svg": "/RaftLabAssesment/static/media/MoneyImg.de59b1760d0457033673deffa73eb65f.svg",
+    "index.html": "/RaftLabAssesment/index.html",
+    "main.3c5cd85c.css.map": "/RaftLabAssesment/static/css/main.3c5cd85c.css.map",
+    "main.f8d41327.js.map": "/RaftLabAssesment/static/js/main.f8d41327.js.map",
+    "787.49616aef.chunk.js.map": "/RaftLabAssesment/static/js/787.49616aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c5cd85c.css",
+    "static/js/main.f8d41327.js"
+  ]
+}
